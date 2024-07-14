@@ -1,0 +1,24 @@
+{
+    "tool_description": "Calculate mathematical expressions",
+    "tool_name": "calculate",
+    "title": "calculate",
+    "api_list": [
+        {
+            "name": "calculate",
+            "url": "",
+            "description": "Calculate mathematical expressions",
+            "method": "GET",
+            "required_parameters": [
+		    {
+                        "name": "expression",
+                        "type": "STRING",
+                        "description": "a mathematical expression in python grammar.",
+                        "default": ""
+                    }
+
+	    ],
+            "optional_parameters": []
+        }
+    ],
+    "standardized_name": "calculate"
+}

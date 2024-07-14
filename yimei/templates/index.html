@@ -1,0 +1,11 @@
+<meta charset="UTF-8">  
+    <title>医美产品展示</title>  
+  
+  
+    <h1>医美产品展示</h1>  
+    <ul>  
+        {% for product in products %}  
+        <li>{{ product[1] }} - {{ product[2] }}元</li>  
+        {% endfor %}  
+    </ul>  
+    <a href="{{ url_for('register') }}">注册会员</a>

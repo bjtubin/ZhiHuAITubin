@@ -1,0 +1,13 @@
+[
+    {
+        "query": "Please send this parcel to Zhuoran Wang, DRC Diplomatic Office Building, Beijing, his mobile number is 13012345678.",
+        "query_id": 200004,
+        "api_list": [
+            {
+                "category_name": "Customized",
+                "tool_name": "add_contact",
+                "api_name": "add_contact"
+            }
+        ]
+    }
+]

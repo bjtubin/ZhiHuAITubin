@@ -1,0 +1,36 @@
+{
+    "tool_description": "Add a contact to address book",
+    "tool_name": "add_contact",
+    "title": "add contact",
+    "api_list": [
+        {
+            "name": "add_contact",
+            "url": "",
+            "description": "Add a contact to address book",
+            "method": "GET",
+            "required_parameters": [
+		    {
+                        "name": "name",
+                        "type": "STRING",
+                        "description": "name of the contact.",
+                        "default": ""
+                    },
+		    {
+                        "name": "address",
+                        "type": "STRING",
+                        "description": "full address of the contact.",
+                        "default": ""
+                    },
+		    {
+                        "name": "tel",
+                        "type": "STRING",
+                        "description": "telephone number of the contact.",
+                        "default": ""
+                    }
+
+	    ],
+            "optional_parameters": []
+        }
+    ],
+    "standardized_name": "add_contact"
+}

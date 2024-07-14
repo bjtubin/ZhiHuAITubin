@@ -1,0 +1,13 @@
+[
+    {
+        "query": "帮我寄给那个王卓然，北京市朝阳区亮马桥外交办公大楼，手机13012345678。",
+        "query_id": 200003,
+        "api_list": [
+            {
+                "category_name": "Customized",
+                "tool_name": "add_contact",
+                "api_name": "add_contact"
+            }
+        ]
+    }
+]

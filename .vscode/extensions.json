@@ -1,5 +1,15 @@
 {
     "recommendations": [
-        "nordic-semiconductor.nrf-terminal"
+        "nordic-semiconductor.nrf-terminal",
+        "yy0931.vscode-sqlite3-editor",
+        "ms-python.python",
+        "grapecity.gc-excelviewer",
+        "ms-toolsai.datawrangler",
+        "jks-liu.wpls",
+        "niudai.vscode-zhihu",
+        "zcs.md-ppt",
+        "sergey-tihon.openxml-explorer",
+        "huggingface.huggingface-vscode",
+        "formulahendry.vscode-mysql"
     ]
 }
